@@ -1,7 +1,7 @@
 [Join the new google group](http://groups.google.com/group/servicestack) or
 follow [@demisbellot](http://twitter.com/demisbellot) and [@ServiceStack](http://twitter.com/servicestack)
 for twitter updates. 
-
+xxx
 #Example Projects built with [ServiceStack](https://github.com/ServiceStack/ServiceStack), [C# RedisClient](https://github.com/ServiceStack/ServiceStack.Redis), [OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite), etc
 
 ## [Download](https://github.com/ServiceStack/ServiceStack.Examples/archive/master.zip)
