@@ -42,7 +42,7 @@ jobs:
     - name: Initialize CodeQL
       uses: github/codeql-action/init@v1
       with:
-        tools: https://github.com/github/codeql-cli-binaries/releases/download/v2.4.1/codeql-linux64.zip
+        tools: https://github.com/github/codeql-action/releases/download/codeql-bundle-20201127/codeql-bundle-linux64.tar.gz
         languages: ${{ matrix.language }}
         config-file: ./.github/codeql-config.yml
         # If you wish to specify custom queries, you can do so here or in a config file.
